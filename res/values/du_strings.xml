@@ -142,4 +142,8 @@
     <!-- Search -->
     <string name="menu_search">Search apps</string>
     <string name="menu_search_hint">Search apps\u2026</string>
+
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
+    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
 </resources>
